@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		889F91AD2D38D80B005FA0C8 /* Localizable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 889F91AC2D38D80B005FA0C8 /* Localizable.swift */; };
 		88BB43C22D30DE1B00AFE30B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BB43C12D30DE1B00AFE30B /* AppDelegate.swift */; };
 		88BB43C42D30DE1B00AFE30B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BB43C32D30DE1B00AFE30B /* SceneDelegate.swift */; };
 		88BB43C62D30DE1B00AFE30B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88BB43C52D30DE1B00AFE30B /* ViewController.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		889F91AC2D38D80B005FA0C8 /* Localizable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Localizable.swift; sourceTree = "<group>"; };
 		88BB43BE2D30DE1B00AFE30B /* SwiftExtensions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftExtensions.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88BB43C12D30DE1B00AFE30B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		88BB43C32D30DE1B00AFE30B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				88BB43EE2D30EC4C00AFE30B /* UITapGestureRecognizer + Extensions.swift */,
 				88BB43F22D30EC4C00AFE30B /* UITextView + Extensions.swift */,
 				88BB43FE2D30F03700AFE30B /* UIDevice + Extensions.swift */,
+				889F91AC2D38D80B005FA0C8 /* Localizable.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				88BB43DE2D30E9C400AFE30B /* CACornerMask + Extensions.swift in Sources */,
+				889F91AD2D38D80B005FA0C8 /* Localizable.swift in Sources */,
 				88BB43E82D30EB3300AFE30B /* String + Extensions.swift in Sources */,
 				88BB43DA2D30E05E00AFE30B /* UIView + Extensions.swift in Sources */,
 				88BB43F62D30EC4C00AFE30B /* UITableView + Extensions.swift in Sources */,
